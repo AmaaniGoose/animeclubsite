@@ -1,6 +1,6 @@
 #  Site for JNU anime club
 
-This site was developed a team consisting of Amaan, Nitish, Ajit and Ravi from JNU School of Engineering. 
+This site was developed by a team consisting of Amaan, Nitish, Ajit and Ravi from School of Engineering,JNU. 
 
 The purpose of the site is to provide a space for the anime community of JNU in the form of blog, give anime/manga news and recommendations as well as resources to get started. 
 
